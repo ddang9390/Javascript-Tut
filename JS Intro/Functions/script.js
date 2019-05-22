@@ -44,3 +44,7 @@ factorial(2);
 factorial(0);
 
 kebabToSnake("hello-world");
+
+setInterval(() => {
+    console.log("hello there")
+}, 1000);
